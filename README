@@ -11,4 +11,6 @@ You can get the latest copy of the scheme from github repo located https://githu
 Installation
 Simply copy the colors.xml into ~/Library/Preferences/.WebIde10 directory on Mac or C:\Users\{YourUsername}\.WebIde10\config\colors\ directory on Windows.
 
-Activate it by selecting its name from Scheme Name drop down inside Settings>IDE Settings>Editor>Colors & Fonts.
+Activatation
+Selecting its name from Scheme Name drop down located in Preferences>>IDE Settings>Editor>Colors & Fonts on Mac or
+Settings>IDE Settings>Editor>Colors & Fonts on windows and clicking 'Apply' button on the same window will activate the scheme fotr you to use.
