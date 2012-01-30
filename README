@@ -10,7 +10,7 @@ Zendburn for PhpStorm is still work in progress. Use at your own risk.
 You can get the latest copy of the scheme from github repo located https://github.com/negativefix/zenburn.
 
 Installation
-Simply copy the colors.xml into ~/Library/Preferences/.WebIde10 directory on Mac or C:\Users\{YourUsername}\.WebIde10\config\colors\ directory on Windows.
+Simply copy the Zenburn.xml into ~/Library/Preferences/.WebIde10 directory on Mac or C:\Users\{YourUsername}\.WebIde10\config\colors\ directory on Windows.
 
 Activation
 Selecting its name from "Scheme Name" drop down located in Preferences>IDE Settings>Editor>Colors & Fonts on Mac or
