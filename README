@@ -1,0 +1,14 @@
+Zenburn Color Scheme for PhpStorm and WebStorm
+
+Zenburn is a vim color scheme created by Jani Nurminen in 2002. Since then, numerous adaptations of this awesome color scheme has been made for various IDEs and editors.
+
+This version is PhpStorm/WebStorm andaptation of the scheme.
+
+Download
+Zendburn for PhpStorm is still work in progress. Use at your own risk.
+You can get the latest copy of the scheme from github repo located https://github.com/negativefix/zenburn.
+
+Installation
+Simply copy the colors.xml into ~/Library/Preferences/.WebIde10 directory on Mac or C:\Users\{YourUsername}\ .WebIde10\config\colors\ directory on Windows.
+
+Activate it by selecting its name from Scheme Name drop down inside Settings>IDE Settings>Editor>Colors & Fonts.
