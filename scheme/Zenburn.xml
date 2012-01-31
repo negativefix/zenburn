@@ -384,7 +384,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="dcdccc" />
+        <option name="FOREGROUND" value="dbdbcb" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -394,9 +394,9 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="dca3a3" />
+        <option name="FOREGROUND" value="e89393" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -404,7 +404,7 @@
     </option>
     <option name="HTML_CODE">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="efefef" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -426,7 +426,7 @@
       <value>
         <option name="FOREGROUND" value="dc8c6c" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -434,9 +434,9 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="efdcbc" />
+        <option name="FOREGROUND" value="efef8f" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -444,9 +444,9 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="efdcbc" />
+        <option name="FOREGROUND" value="dbdbcb" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -1224,8 +1224,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="3f3f3f" />
+        <option name="FOREGROUND" value="dbdbcb" />
+        <option name="BACKGROUND" value="333333" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -1344,7 +1344,7 @@
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="ecbcbc" />
+        <option name="FOREGROUND" value="db8c6c" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -1354,17 +1354,17 @@
     </option>
     <option name="XML_PROLOGUE">
       <value>
-        <option name="FOREGROUND" value="eddabb" />
+        <option name="FOREGROUND" value="efefaf" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
+        <option name="EFFECT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
     <option name="XML_TAG">
       <value>
-        <option name="FOREGROUND" value="eddabb" />
+        <option name="FOREGROUND" value="eded8e" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1374,7 +1374,7 @@
     </option>
     <option name="XML_TAG_DATA">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1384,7 +1384,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="eddabb" />
+        <option name="FOREGROUND" value="d9d9c9" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
