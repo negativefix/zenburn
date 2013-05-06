@@ -9,7 +9,7 @@
     <option name="CARET_ROW_COLOR" value="333333" />
     <option name="INDENT_GUIDE" value="333333" />
     <option name="LINE_NUMBERS_COLOR" value="8a8a8a" />
-    <option name="RIGHT_MARGIN_COLOR" value="" />
+    <option name="RIGHT_MARGIN_COLOR" value="8a8a8a" />
   </colors>
   <attributes>
     <option name="APACHE_CONFIG.ARG_LEXEM">
