@@ -11,7 +11,7 @@ Zendburn for PhpStorm is still work in progress. You can get the latest copy of 
 ## Installation
 Simply copy the __Zenburn.xml__ into;
 
-	~/Library/Preferences/.WebIde{{PhpStormVersion}/colors
+	~/Library/Preferences/.WebIde{{PhpStormVersion}}/colors
 
 on Mac or 
 
