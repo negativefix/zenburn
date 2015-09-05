@@ -1,5 +1,6 @@
-# Zenburn Color Scheme for PhpStorm and WebStorm
+# Zenburn Color Scheme for PhpStorm 
 
+![](https://github.com/negativefix/zenburn/blob/master/screenshots/html.png)
 
 Zenburn is a Vim color scheme created by Jani Nurminen in 2002. Since then, numerous adaptations of this awesome color scheme has been made for various IDEs and editors.
 
@@ -20,7 +21,7 @@ on Mac or
 directory on Windows.
 
 ## Enabling Zenburn
-* Goto Preferences>IDE Settings>Editor>Colors & Fonts on Mac or
-Settings>IDE Settings>Editor>Colors & Fonts on Windows.
+* Goto __Preferences>IDE Settings>Editor>Colors & Fonts__ on Mac or
+__Settings>IDE Settings>Editor>Colors & Fonts on Windows.__
 * Select __Zenburn__ from __Scheme name__ dropdown menu
 * Click __Apply__
