@@ -10,7 +10,9 @@ This is the PhpStorm/WebStorm port of Zenburn.
 Zendburn for PhpStorm is still work in progress. You can get the latest copy of the scheme from github repo located https://github.com/negativefix/zenburn.
 
 ## Installation
-Simply copy the __Zenburn.xml__ into;
+__(Note: Zenburn.xml deprecated and will be removed from the repo. Use Zenburn.icls instead.)__
+
+Simply copy the __Zenburn.icls__ into;
 
 	~/Library/Preferences/.WebIde{{PhpStormVersion}}/colors
 
@@ -22,6 +24,6 @@ directory on Windows.
 
 ## Enabling Zenburn
 * Goto __Preferences>IDE Settings>Editor>Colors & Fonts__ on Mac or
-__Settings>IDE Settings>Editor>Colors & Fonts on Windows.__
+__Settings>IDE Settings>Editor>Colors & Fonts__ on Windows.
 * Select __Zenburn__ from __Scheme name__ dropdown menu
 * Click __Apply__
