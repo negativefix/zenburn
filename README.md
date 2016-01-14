@@ -18,12 +18,18 @@ Simply copy the __Zenburn.icls__ into;
 
 on Mac or 
 
+	~/.WebIde{{PhpStormVersion}}/config/colors
+
+on Linux or
+
 	C:\Users\{YourUsername}\.WebIde{{PhpStormVersion}}\config\colors\ 
 
 directory on Windows.
 
 ## Enabling Zenburn
-* Goto __Preferences>IDE Settings>Editor>Colors & Fonts__ on Mac or
-__Settings>IDE Settings>Editor>Colors & Fonts__ on Windows.
+* Goto 
+    * __Preferences>IDE Settings>Editor>Colors & Fonts__ on Mac 
+    * or __Settings>IDE Settings>Editor>Colors & Fonts__ on Windows
+    * or __File>Settings>Editor->Colors & Fonts__ on Linux
 * Select __Zenburn__ from __Scheme name__ dropdown menu
 * Click __Apply__
